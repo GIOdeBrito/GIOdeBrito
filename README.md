@@ -1,6 +1,11 @@
-<h1 align="center">Giordano Bruno Magnos de Brito</h1>
 
-<p align="center">Very welcome. My name is Giordano de Brito. I like to program and mess with things.</p>
+<div align='center'>
+  <h2 align="center">Giordano de Brito</h2>
+  <p align="center">Be very much welcome to my domain. I like to program and mess with things.</p>
+  <img display='inline-block' width='32' src='https://i.giphy.com/dvkFZr4VBBS6I.webp'>
+</div>
+
+<h3 align='center'>Languages and technologies</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt='c'>
@@ -32,9 +37,9 @@
 
 ###
 
-<h3>What I plan to learn</h3>
+<h3 align='center'>What I plan to or am currently learning</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt='angular'>
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt='electron'>
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt='vue'>
