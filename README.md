@@ -1,7 +1,7 @@
 
 <div align='center'>
   <h2 align="center">Giordano de Brito</h2>
-  <p align="center">Be very much welcome to my domain. I like to program and mess with things.</p>
+  <p align="center">Be very much welcome to my redoubt. I like to program and mess with things.</p>
   <img display='inline-block' width='32' src='https://i.giphy.com/dvkFZr4VBBS6I.webp'>
 </div>
 
