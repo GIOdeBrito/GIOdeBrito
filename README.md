@@ -60,8 +60,13 @@
 <!-- Stats -->
 <h3 align='center'>GitHub Stats</h3>
 <div align="center">
-  <img src='https://visitor-badge.laobi.icu/badge?page_id=GIOdeBrito.GIOdeBrito&'>
-  <img src='https://streak-stats.demolab.com?user=GIOdeBrito&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3'>
+  <div align="center">
+    <img src='https://visitor-badge.laobi.icu/badge?page_id=GIOdeBrito.GIOdeBrito&'>
+  </div>
+  
+  <div align="center">
+    <img src='https://streak-stats.demolab.com?user=GIOdeBrito&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3'>
+  </div>
 </div>
 
 <!-- Contact -->
