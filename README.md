@@ -2,7 +2,7 @@
 <!-- Introduction -->
 <div align='center'>
   <h2 align="center">Giordano de Brito</h2>
-  <p align="center">Be very much welcome to my redoubt. I am a passionate fullstack and desktop applications developer that enjoys experimenting with a variety of technologies.</p>
+  <p align="center">Be very much welcome to my redoubt. I am a passionate web fullstack and desktop developer. I enjoys experimenting with a variety of technologies.</p>
   <img display='inline-block' width='32' src='https://i.giphy.com/dvkFZr4VBBS6I.webp'>
 </div>
 
@@ -67,10 +67,6 @@
 <!-- Contact -->
 <h3 align='center'>Contact</h3>
 <div align="center">
-  <a style="display: inline-block" href="https://giodebrito.github.io/my-website/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt='portfolio'>
-  </a>
-
   <a style="display: inline-block" href="https://www.linkedin.com/in/giordano-de-brito-384808299">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'>
   </a>
