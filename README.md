@@ -1,11 +1,10 @@
 
-<!-- Introduction 
+<!-- Introduction -->
 <div align='center'>
   <h2 align="center">Giordano de Brito</h2>
-  <p align="center">Be very much welcome to my redoubt. I am a passionate web fullstack and desktop developer. I enjoy experimenting with a variety of technologies.</p>
+  <p align="center">Passionate Full Stack Web and Desktop developer. I enjoy experimenting with a variety of technologies.</p>
   <img display='inline-block' width='32' src='https://i.giphy.com/dvkFZr4VBBS6I.webp'>
 </div>
--->
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
